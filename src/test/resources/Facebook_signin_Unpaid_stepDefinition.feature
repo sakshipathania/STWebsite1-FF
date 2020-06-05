@@ -1,4 +1,4 @@
-@Fbuser_unpaid_user 
+@Facebook_signin_Unpaid_stepDefinition
 Feature: Sign with new facebook user. 
 Scenario: Sign in the application with facebook user. 
 	Given Go to the application URL. 
