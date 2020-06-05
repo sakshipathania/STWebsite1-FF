@@ -1,6 +1,5 @@
 @signupTest 
 Feature: signup Test On Web Application 
-@signupTest_1 
 Scenario: 
 	Given Navigates to website url. 
 	Then Creating new account
