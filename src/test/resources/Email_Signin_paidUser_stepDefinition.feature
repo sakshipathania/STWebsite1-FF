@@ -1,4 +1,4 @@
-@paidUser_email 
+@Email_Signin_paidUser_stepDefinition
 Feature: Already user subcribe the application. 
 Scenario: Already subscribe the product. 
 	Given Open application URL  
