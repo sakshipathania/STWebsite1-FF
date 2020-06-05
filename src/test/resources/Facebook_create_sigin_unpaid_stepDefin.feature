@@ -1,4 +1,4 @@
-@Fbuser_create_new_fb__user 
+@Facebook_create_sigin_unpaid_stepDefin 
 Feature: create new fbuser. 
 Scenario: create the application with facebook user 
 	Given user is already on Home Page new fb
