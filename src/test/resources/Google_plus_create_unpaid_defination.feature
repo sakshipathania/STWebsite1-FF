@@ -1,4 +1,4 @@
-@Google_plus_create 
+@Google_plus_create_unpaid_defination
 Feature: google plus user. 
 Scenario: google plus user signin the app. 
 	Given user is already on Home Page new google
