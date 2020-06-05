@@ -1,4 +1,4 @@
-@google_plus_user_paid 
+@GooglePlus_signin_paid_user_stepDefinitio
 Feature: Already user subcribe the application with google plus id. 
 Scenario: Already subscribe the product with google plus id. 
 	Given Open home page of the application. 
