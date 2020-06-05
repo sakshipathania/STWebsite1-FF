@@ -1,4 +1,4 @@
-@SignUp_Incorrect_Data
+@SignUp_Incorrect_data_Step
 Feature:  Sign up with incorrect data
 Scenario: Test Sign up with Incorrect Data
 
