@@ -1,4 +1,4 @@
-@signInTest 
+@Login_step_definition
 Feature: signin Test On Web Application 
 Scenario: 
 	Given Open the website url
